@@ -1,4 +1,4 @@
-name: Template
+name: MyPluginBase
 version: 1.0.0
-antigen: pjz9n\template
+antigen: pjz9n\mypluginbase
 api: 3.0.0
